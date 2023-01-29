@@ -3,7 +3,7 @@ Sandarma Natapaima Nainggolan
 
 ----
 
-A passionate python developer from Sumatera Utara (IDN)
+A passionate Python developer from Sumatera Utara (IDN)
 
 ----
 
@@ -37,7 +37,7 @@ Technical Experience
 --------------------
 
 Open Source
-:   for now I haven't contributed much to open source, but in the future I plan to start contributing.
+:   For now I haven't contributed much to open source, but in the future I plan to start contributing.
 
 Programming Languages
 :   **first-lang:** ***python***, I've known python since 2019, Python is also my everyday Programming Language. Many of the projects I build use python, I believe my Python programming language level is already high so my programming style is pythonic
@@ -60,7 +60,7 @@ Human Languages and Fun Fact
   
      * Linux Enjoyer
      * btw i use arch
-     * Existensialism
+     * Existentialism
      
 
 
