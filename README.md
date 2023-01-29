@@ -11,7 +11,7 @@ Education
 ---------
 
 2019-2023 (expected)
-:   **S.T, Information System**; Awesome University Malikussaleh
+:   **S.T, Information System**: Universitas Malikussaleh
 
     TGA title: "EKSPLORASI DAN ANALISIS DATA TANAMAN PADI DENGAN METODE BACKPROPAGATION BERBASIS WEB"
 
