@@ -13,7 +13,7 @@ Education
 2019-2023 (expected)
 :   **S.T, Information System**: Universitas Malikussaleh
 
-    TGA title: "EKSPLORASI DAN ANALISIS DATA TANAMAN PADI DENGAN METODE BACKPROPAGATION BERBASIS WEB"
+    TGA Title: "EKSPLORASI DAN ANALISIS DATA TANAMAN PADI DENGAN METODE BACKPROPAGATION BERBASIS WEB"
 
 2017-2018
 :   **Graduate High School** : MAS DARUR RACHMAD SIBOLGA
@@ -42,9 +42,11 @@ Open Source
 Programming Languages
 :   **first-lang:** ***python***, I've known python since 2019, Python is also my everyday Programming Language. Many of the projects I build use python, I believe my Python programming language level is already high so my programming style is pythonic
 
+DBMS
+: **SQLite3** ,**MySQL**, and **PostgreSQL**
 
 
-:   Basic knowledge of **Java**, **C++**, **Go**, and **Lua**
+Basic knowledge of **Java**, **C**, **Go**, and **PHP**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
@@ -54,7 +56,7 @@ Human Languages and Fun Fact
 * Human Languages:
 
      * Indonesian
-     * English (Beginner)
+     * English 
      
 * Fun Fact :
   
