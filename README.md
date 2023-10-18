@@ -10,8 +10,8 @@ A passionate Python developer from Sumatera Utara (IDN)
 Education
 ---------
 
-2019-2023 (expected)
-:   **S.T, Information System**: Universitas Malikussaleh
+2019-2023
+:   **S.Kom, Information System**: Universitas Malikussaleh
 
     TGA Title: "EKSPLORASI DAN ANALISIS DATA TANAMAN PADI DENGAN METODE BACKPROPAGATION BERBASIS WEB"
 
@@ -22,7 +22,7 @@ Education
 Experience
 ----------
 
-**My experience during independent study, internship and practical work:**
+**My experience during independent study, internship, course and practical work:**
 
 
 
@@ -30,8 +30,11 @@ Experience
 
 * Practical Work in DISKOMINFO Central Tapanuli.
   
+* Deep Neural Network with Pytorch in Coursera
 
+* Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning in Coursera
 
+* Python (Basic) in Hackerrank
 
 Technical Experience
 --------------------
